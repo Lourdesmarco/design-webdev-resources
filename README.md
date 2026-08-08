@@ -110,14 +110,14 @@
 --- 
 -->
 
-## 📊 Estadísticas
+## 📊 Statistics
 
-| Métrica | Valor |
+| Metric | Value |
 |---------|-------|
-| Total de recursos | 30+ |
-| Categorías | 6 |
-| Última actualización | 08/08/2026 |
-| Contribuidores | 1 |
+| Total resources | 30+ |
+| Categories | 6 |
+| Last updated | 08/08/2026 |
+| Contributors | 1 |
 
 ---
 
