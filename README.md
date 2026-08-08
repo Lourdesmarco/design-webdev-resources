@@ -10,12 +10,12 @@
 
 ## 📑 Table of contents
 
-- [🛠️ Global tools](#-global--tools)
-- [📚 Other resource collections](#-other--resource--collections)
-- [<img src="./media/html.png" width="16" height="16" align="center"> HTML](#-html)
-- [👩‍💻 Javascript](#-javascript)
-- [📺 Animated SVGs](#-SVG)
-- [👾 JSON & XML](#-json--xml)
+- 🛠️ [Global tools](#-global-tools)
+- 📚 [Other resource collections](#-other-resource-collections)
+- <img src="./media/html.png" width="16" height="16" align="center"> [HTML](#-html)
+- 👩‍💻 [Javascript](#-javascript)
+- 📺 [SVG](#-svg)
+- 👾 [JSON & XML](#-json--xml)
 
 
 <!-- - [📚 JS Libraries](#-libraries) -->
@@ -54,7 +54,7 @@
 | Glyphy: Letras y símbolos | 🛠️&ensp;Tool | [glyphy.io](https://glyphy.io/es) |
 | ¿Qué es HTML? | 📝&ensp;Article | [codigofacilito.com](https://codigofacilito.com/articulos/que-es-html) |
 | Stop using so many divs! An intro to semantic HTML | 📝&ensp;Article | [dev.to/kenbellows](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i) |
-| A short guide to help you pick the correct HTML tag | [dev.to/polgarj](https://dev.to/polgarj/a-short-guide-to-help-you-pick-the-correct-html-tag-56l9) |
+| A short guide to help you pick the correct HTML tag | 📝&ensp;Article | [dev.to/polgarj](https://dev.to/polgarj/a-short-guide-to-help-you-pick-the-correct-html-tag-56l9) |
 
 ---
 
@@ -94,8 +94,8 @@
 | JSON formatter| 🛠️&ensp;Tool | [jsonformatter.org](https://jsonformatter.org/json-editor) |
 | JSON Editor| 🛠️&ensp;Tool | [codebeautify.org](https://codebeautify.org/online-json-editor) |
 | JSON Editor from Dan´s Tools| 🛠️&ensp;Tool | [cleancss.com](https://www.cleancss.com/json-editor/) |
-| JSON Lint | 🛠️&ensp;Tool | [jsonlint.com](https://jsonlint.com)
-| Which API Data Format Is the Best? JSON Vs. XML | 📝&ensp;Article | [medium.com](https://medium.com/api-world/which-api-data-format-is-the-best-json-vs-xml-aaf9b1f94155) |
+| JSON Lint | 🛠️&ensp;Tool | [jsonlint.com](https://jsonlint.com) |
+| Which API Data Format Is the Best? JSON Vs. XML | 📝&ensp;Article | [medium.com](https://medium.com/api-world/ which-api-data-format-is-the-best-json-vs-xml-aaf9b1f94155) |
 | A Deep Look at JSON vs. XML, Part 1: The History of Each Standard | 📝&ensp;Article | [toptal.com](https://www.toptal.com/developers/web/json-vs-xml-part-1) |
 
 
