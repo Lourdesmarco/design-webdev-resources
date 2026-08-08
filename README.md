@@ -4,7 +4,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-[![Last updated](https://img.shields.io/badge/Updated-03%2F08%2F2026-orange)](#)
+[![Last updated](https://img.shields.io/badge/Updated-08%2F08%2F2026-orange)](#)
 
 ---
 
@@ -95,7 +95,7 @@
 | JSON Editor| 🛠️&ensp;Tool | [codebeautify.org](https://codebeautify.org/online-json-editor) |
 | JSON Editor from Dan´s Tools| 🛠️&ensp;Tool | [cleancss.com](https://www.cleancss.com/json-editor/) |
 | JSON Lint | 🛠️&ensp;Tool | [jsonlint.com](https://jsonlint.com) |
-| Which API Data Format Is the Best? JSON Vs. XML | 📝&ensp;Article | [medium.com](https://medium.com/api-world/ which-api-data-format-is-the-best-json-vs-xml-aaf9b1f94155) |
+| Which API Data Format Is the Best? JSON Vs. XML | 📝&ensp;Article | [medium.com](https://medium.com/api-world/which-api-data-format-is-the-best-json-vs-xml-aaf9b1f94155) |
 | A Deep Look at JSON vs. XML, Part 1: The History of Each Standard | 📝&ensp;Article | [toptal.com](https://www.toptal.com/developers/web/json-vs-xml-part-1) |
 
 
