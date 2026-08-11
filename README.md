@@ -4,15 +4,18 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-[![Last updated](https://img.shields.io/badge/Updated-08%2F08%2F2026-orange)](#)
+[![Last updated](https://img.shields.io/badge/Updated-11%2F08%2F2026-orange)](#)
 
 ---
 
 ## 📑 Table of contents
 
+- 📘 [Global docs](#-global-docs)
 - 🛠️ [Global tools](#-global-tools)
+- 🧑‍🧒‍🧒 [Blogs](#-blogs)
 - 📚 [Other resource collections](#-other-resource-collections)
 - <img src="./media/html.png" width="16" height="16" align="center"> [HTML](#-html)
+- 👩‍💻 [CSS](#-css)
 - 👩‍💻 [Javascript](#-javascript)
 - 📺 [SVG](#-svg)
 - 👾 [JSON & XML](#-json--xml)
@@ -22,12 +25,35 @@
 
 ---
 
+## 📘 Global Docs
+
+| Resource | Category | URL |
+|---------|----------|-----|
+| W3C | 📘&ensp;Docs | [w3.org](https://www.w3.org) |
+| w3schools | 📘&ensp;Docs | [w3schools.com](https://www.w3schools.com) |
+| Interneting is hard | 📘&ensp;Docs | [internetingishard.netlify.app](https://internetingishard.netlify.app) |
+
+
+---
+
 ## 🛠️ Global Tools
 
 | Resource | Category | URL |
 |---------|----------|-----|
 | Can I use | 🛠️&ensp;Tool | [caniuse.com](https://caniuse.com) |
+| MyDevice | 🛠️&ensp;Tool | [mydevice.io](https://www.mydevice.io) |
+
+---
+
+## 🧑‍🧒‍🧒 Blogs
+
+| Resource | Category | URL |
+|---------|----------|-----|
 | Dev | 🧑‍🧒‍🧒&ensp;Blog | [dev.to](https://dev.to) |
+| CSS-Tricks | 🧑‍🧒‍🧒&ensp;Blog | [css-tricks.com](https://css-tricks.com) |
+| Web Designer Depot | 🧑‍🧒‍🧒&ensp;Blog | [webdesignerdepot.com](https://www.webdesignerdepot.com) |
+| Smashing Magazine | 🧑‍🧒‍🧒&ensp;Blog | [smashingmagazine.com](https://www.smashingmagazine.com) |
+| CSS {in real life} | 🧑‍🧒‍🧒&ensp;Blog | [css-irl.info](https://css-irl.info) |
 
 
 ---
@@ -56,6 +82,32 @@
 | Stop using so many divs! An intro to semantic HTML | 📝&ensp;Article | [dev.to/kenbellows](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i) |
 | A short guide to help you pick the correct HTML tag | 📝&ensp;Article | [dev.to/polgarj](https://dev.to/polgarj/a-short-guide-to-help-you-pick-the-correct-html-tag-56l9) |
 
+
+---
+
+## 👩‍💻 CSS
+
+| Resource | Category | URL |
+|---------|----------|-----|
+| Modern CSS solutions for old CSS problems | 📌&ensp;Tips | [moderncss.dev](https://moderncss.dev) |
+| CSSreference | 📘&ensp;Docs | [cssreference.io](https://cssreference.io) |
+| CSS Selector reference | 📘&ensp;Docs | [cssreference.io](https://www.w3schools.com/cssref/css_selectors.php) |
+| CSS selectors | 📘&ensp;Docs | [digitalocean.com](https://www.digitalocean.com/community/tutorials/css-css-selectors) |
+| CSS properties | 📘&ensp;Docs | [quackit.com](https://www.quackit.com/css/properties/) |
+| Tabla resumen propiedades CSS | 📘&ensp;Docs | [eniun.com](https://www.eniun.com/resumen-tabla-propiedades-css-valores/) |
+| Flex CheatSheet | 📘&ensp;Docs | [yoksel.github.io](https://yoksel.github.io/flex-cheatsheet/) |
+| Flex: simple visual cheatsheet | 📘&ensp;Docs | [flexbox.malven.co](https://flexbox.malven.co) |
+| Flexbox cheatsheet | 📘&ensp;Docs | [darekkay.com](https://darekkay.com/flexbox-cheatsheet/) |
+| Specificity Calculator | 🛠️&ensp;Tool | [specificity.keegan.st](https://specificity.keegan.st) |
+| Flexbox patterns | 🛠️&ensp;Tool | [flexboxpatterns.com](https://flexboxpatterns.com) |
+| Flexbox generator | 🛠️&ensp;Tool | [flexbox.help](https://flexbox.help) |
+| Understanding CSS selectors | 📝&ensp;Article | [medium.com](https://medium.com/front-end-weekly/understanding-css-selectors-1c03267e7cd2) |
+| A Complete CSS Flexbox Layout Guide | 📝&ensp;Article | [css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |
+| Prioridad CSS | 🏞️&ensp;Image | [notion.com](https://img.notionusercontent.com/s3/prod-files-secure%2F9ad04815-b8bc-40bc-9aad-8fac2b682a9d%2F49d4d596-fe67-4aee-adf8-b3dbb4272e23%2Fcss-specificity-wars.png/size/w=1410?exp=1786555521&sig=fWTxy6MrkzmS_0XwdOy0IBIbhTMCgL6LfdWLJbgih7Y&imgBuildSrc=presignImageUrl&id=f3f0ea6b-b6d7-43bd-9f05-424eacd4298d&table=block&mtd=so) |
+| Flexbox PDF | 🏞️&ensp;Image | [notion.com](https://file.notion.so/f/f/9ad04815-b8bc-40bc-9aad-8fac2b682a9d/323583ec-e132-454d-89c3-4708d32d2ca1/flex_cheatsheet.pdf?table=block&id=2213670a-17da-45b9-96d6-b13a04c515d5&spaceId=9ad04815-b8bc-40bc-9aad-8fac2b682a9d&expirationTimestamp=1786492800000&signature=zs6Ohwnlsup5i0Vdr_VmkZNkWaVJd26D2j3V1sOMYAo&downloadName=flex_cheatsheet.pdf) |
+
+
+
 ---
 
 ## 👩‍💻 Javascript
@@ -78,9 +130,9 @@
 
 | Resource |  Category | URL |
 |----------|-----------|-----|
-| SVGator | 🛠️&ensp;Tool | [svgator.com](https://www.svgator.com/ecommerce-website-design-animation) |
-| Animate an SVG icon with CSS and JavaScript | 🎥&ensp;Video | [youtube.com](https://www.youtube.com/watch?v=eSpHvESNcZQ) |
 | SVG + JavaScript Tutorial – How to Code an Animated Watch | 📝&ensp;Article | [freecodecamp.org](https://www.freecodecamp.org/news/svg-javascript-tutorial/) |
+| Animate an SVG icon with CSS and JavaScript | 🎥&ensp;Video | [youtube.com](https://www.youtube.com/watch?v=eSpHvESNcZQ) |
+| SVGator | 🛠️&ensp;Tool | [svgator.com](https://www.svgator.com/ecommerce-website-design-animation) |
 
 ---
 
@@ -114,9 +166,9 @@
 
 | Metric | Value |
 |---------|-------|
-| Total resources | 30+ |
-| Categories | 6 |
-| Last updated | 08/08/2026 |
+| Total resources | 50+ |
+| Categories | 9 |
+| Last updated | 11/08/2026 |
 | Contributors | 1 |
 
 ---

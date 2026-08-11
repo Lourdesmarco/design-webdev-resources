@@ -25,6 +25,7 @@ Thank you for considering contributing to this web resources repository.
    - 📝 = Article
    - 🛠️ = Tool
    - 🎥 = Video
+   - 🏞️ = Image
    - 📌 = Tips
    - 📚 = Collection
 
