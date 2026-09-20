@@ -28,6 +28,7 @@ Thank you for considering contributing to this web resources repository.
    - 🏞️ = Image
    - 📌 = Tips
    - 📚 = Collection
+   - 📊 = Data
 
 ### URL Format
 

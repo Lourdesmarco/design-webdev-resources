@@ -10,28 +10,45 @@
 
 ## 📑 Table of contents
 
-- 📘 [Global docs](#-global-docs)
+- 📊 [State of](#-state-of)
+- 📘 [Global docs & books](#-global-docs)
 - 🛠️ [Global tools](#-global-tools)
 - 🧑‍🧒‍🧒 [Blogs](#-blogs)
 - 📚 [Other resource collections](#-other-resource-collections)
-- <img src="./media/html.png" width="16" height="16" align="center"> [HTML](#-html)
+- 👩‍💻 [HTML](#-html)
 - 👩‍💻 [CSS](#-css)
 - 👩‍💻 [Javascript](#-javascript)
 - 📺 [SVG](#-svg)
 - 👾 [JSON & XML](#-json--xml)
 
 
-<!-- - [📚 JS Libraries](#-libraries) -->
 
 ---
 
-## 📘 Global Docs
+## 📊 State of
+
+
+| Resource | Category | URL |
+|---------|----------|-----|
+| State of JS | 📊&ensp;Data | [stateofjs.com](https://stateofjs.com/en-US) |
+| State of CSS | 📊&ensp;Data | [stateofcss.com](https://stateofcss.com/en-US) |
+| State of HTML | 📊&ensp;Data | [stateofhtml.com](https://stateofhtml.com/en-US) |
+| State of AI | 📊&ensp;Data | [stateofai.dev](https://stateofai.dev/en-US) |
+
+
+
+
+---
+
+## 📘 Global Docs & Books
 
 | Resource | Category | URL |
 |---------|----------|-----|
 | W3C | 📘&ensp;Docs | [w3.org](https://www.w3.org) |
 | w3schools | 📘&ensp;Docs | [w3schools.com](https://www.w3schools.com) |
 | Interneting is hard | 📘&ensp;Docs | [internetingishard.netlify.app](https://internetingishard.netlify.app) |
+| Libros gratis en español | 📕&ensp;Book | [librosgratis.dev](https://librosgratis.dev) |
+
 
 
 ---
@@ -42,6 +59,10 @@
 |---------|----------|-----|
 | Can I use | 🛠️&ensp;Tool | [caniuse.com](https://caniuse.com) |
 | MyDevice | 🛠️&ensp;Tool | [mydevice.io](https://www.mydevice.io) |
+| Editor: Visual Studio Code  | 🛠️&ensp;Tool | [code.visualstudio.com](https://code.visualstudio.com) |
+| Editor: VS Codium  | 🛠️&ensp;Tool | [vscodium.com](https://vscodium.com) |
+| Editor AI: Cursor  | 🛠️&ensp;Tool | [cursor.com](https://cursor.com/es/home) |
+| Terminal: Ghostty  | 🛠️&ensp;Tool | [ghostty.org](https://ghostty.org) |
 
 ---
 
@@ -65,7 +86,7 @@
 | Web Skills | 📚&ensp;Collection | [andreasbm.github.io](https://andreasbm.github.io/web-skills/) |
 
 ---
-## <img src="./media/html.png" width="22" height="22" align="center"> HTML
+## 👩‍💻 HTML
 
 | Resource | Category | URL |
 |---------|----------|-----|
@@ -166,9 +187,9 @@
 
 | Metric | Value |
 |---------|-------|
-| Total resources | 50+ |
-| Categories | 9 |
-| Last updated | 11/08/2026 |
+| Total resources | 60+ |
+| Categories | 10 |
+| Last updated | 20/09/2026 |
 | Contributors | 1 |
 
 ---
@@ -201,4 +222,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 ---
 
-**Made with ❤️ and ☕**
+**Made with ❤️ and 🎵
